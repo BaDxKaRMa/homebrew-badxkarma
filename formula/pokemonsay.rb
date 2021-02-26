@@ -2,7 +2,7 @@ class Pokemonsay < Formula
   desc '"pokemonsay" is like "cowsay" but for pokémon.'
   homepage "https://github.com/badxkarma/pokemonsay"
   url "https://github.com/badxkarma/pokemonsay/tarball/v1.1.0"
-  sha256 "b71a3a993f3402f7f9c8b5be169437ce252360b841296cb5539e11e1b9386bb9"
+  sha256 "9717b1a871db79c15f056b7852f22936162a6e660b88c49fd1db2afe7bc74fa8"
   version "v1.1.0"
 
   depends_on "cowsay" => :recommended
